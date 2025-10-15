@@ -10,7 +10,7 @@ This is my journal of the design and building process of **3D-printer**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/530).
 
 
-## 10/15/2025 - Starting seraching and learning how things works  
+## 10/15/2025 - Starting serach and learning how things works  
 
 ## Day 1 - 15 oct 2025
 
