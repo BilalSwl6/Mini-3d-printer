@@ -51,6 +51,11 @@ I also design some basics design in onshape to get control over.
 - learn more about firmwares that used (🤔 not sure that I am saying) to control printer
 a lot more....
 
+sources that I used to get info: 
+- YouTube (of course) {lifeada, Core Electronics, CAD Video Tutorials, ATO Automation, The Engineering Mindset ...}
+- [Core Electronics](https://core-electronics.com.au/guides/digital-electronics/servos-steppers-or-solenoids-choosing-an-actuator-to-move-your-project/)  get more understanding 
+- and some other that I check rendomly but get nothing spacial
+
 that's for today, see you in next journal entry,
 Goodbye  
 
