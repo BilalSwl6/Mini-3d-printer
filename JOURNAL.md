@@ -30,3 +30,27 @@ what I do:
 - get informations for material that are easily available available for frame (also cost effective and reliable)
   
 
+## 10/16/2025 - draw some drawings and learn about moters  
+
+# Day 2 - 16-10-2025
+
+today I do lot of things and draw some drawings (but I am so bad in this) and also try to figure-out material but still not finalize
+
+![IMG-20251016-WA0003.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--2d8ca2da5a45ece06bdac636ad5ca88c558a8bd1/IMG-20251016-WA0003.jpg)
+![IMG-20251016-WA0005.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxMywicHVyIjoiYmxvYl9pZCJ9fQ==--b6ba965d53bf0d1444c7f5a1ecfe6261d49132c9/IMG-20251016-WA0005.jpg)
+
+my writing is bad, ignore it. I saw working of lot of Bambu-Lab printers. there is foundation is very strong and also provided extra feature (some of them are very advance). I just take inspiration while making design. its just my first drawing and also not final. its has many things that need to be explain and most of details are missing because I never try and never see any printer physically. 
+I read about stepper motor and also how it work in steps. this concept is very interesting to move things with high precision. I also that these type of moter need a driver to give instructions. 
+I also design some basics design in onshape to get control over. 
+
+![Screenshot 2025-10-16 22.09.36.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--70a1b777c3377465a8afe5340240d063dafea4c7/Screenshot%202025-10-16%2022.09.36.png)
+
+
+### what's next: 
+- design more and more complex things in onshape to become best.
+- learn more about firmwares that used (🤔 not sure that I am saying) to control printer
+a lot more....
+
+that's for today, see you in next journal entry,
+Goodbye  
+
