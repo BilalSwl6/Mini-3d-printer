@@ -21,7 +21,7 @@ what I do:
 - how printer head works and how filaments melt to draw (even different colors)
 - research on existing printer that are available in market and there features
 
-![Screenshot 2025-10-15 23.02.31.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--dee729f91a11244b9e64a1fbf196bbadf069f10b/Screenshot%202025-10-15%2023.02.31.png)
+![Screenshot 2025-10-15 23.02.31.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxNywicHVyIjoiYmxvYl9pZCJ9fQ==--a27eaca2232e02a1ab34df8c9f6849dd0af840e8/Screenshot%202025-10-15%2023.02.31.png)
 
 
 ### what next to do:
