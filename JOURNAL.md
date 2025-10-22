@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **3D-printer**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/530).
-
-
 ## 10/15/2025 - Starting serach and learning how things works  
 
 ## Day 1 - 15 oct 2025
@@ -58,4 +54,36 @@ sources that I used to get info:
 
 that's for today, see you in next journal entry,
 Goodbye  
+
+## 10/22/2025 - explore a world of printer  
+
+# Day 3 - 22-10-2025
+
+What I learn (in previous two days)
+- read about G and M code
+- Learn about CNC
+- first time about CoreXY
+- read more about Cartesian coordinate system (already have knowledge but only for book problems, never think in practical things like this)
+- Fused filament fabrication
+- voron (about open source projects
+- patents and trademarks (spacially about FFF)
+- practice onshape CAD
+- and much more....
+
+![Screenshot 2025-10-22 21.46.56.png](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac70030f72e41b3e7ba9666873f7ab2bff91047b/Screenshot%202025-10-22%2021.46.56.png, “these all tabs that I expored and some are still untouched that I will see tomorrow”)
+
+before I only know about Bambulab, now I know about others that make open source such things that Bambulab make. I discard idea to things like Bambulab but now I know that they can have trademarks and patents that may lead to other things, so now I will only relay on public and open source.
+read about all voron printer their works and main thing there cost to build.
+I choose voron trident, because of cost, speed and duribility. I think I can make it. I also explore other like prusa but I think voron is best for me. I am not going to copy paste everything, its just to model because I never print any object so it will cause measurement issues so I will see voron trident design and other things that used. I will not include (extra) things that have no meaning on my stage. also explore all local market to find aluminium extrusion for frame but not succesd (now I need to visit online marketplace. I visit because I want reduce cost but failed)
+
+
+
+## source that I used to learn:
+these source used to learn about above things
+- [1 Video by Teaching tech](https://www.youtube.com/@TeachingTech)
+- [Wikipedia on G/Mcode, Cartesian and other topic that I see)
+- [youtube](https://YouTube.com) I search a lot and watch for hours about printer assembling and other things
+
+that's for today, 
+Bye  
 
