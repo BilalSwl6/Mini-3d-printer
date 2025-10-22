@@ -70,7 +70,8 @@ What I learn (in previous two days)
 - practice onshape CAD
 - and much more....
 
-![Screenshot 2025-10-22 21.46.56.png](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac70030f72e41b3e7ba9666873f7ab2bff91047b/Screenshot%202025-10-22%2021.46.56.png, “these all tabs that I expored and some are still untouched that I will see tomorrow”)
+![Screenshot 2025-10-22 21.46.56.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac70030f72e41b3e7ba9666873f7ab2bff91047b/Screenshot%202025-10-22%2021.46.56.png)
+these all tabs that I expored and some are still untouched that I will see tomorrow
 
 before I only know about Bambulab, now I know about others that make open source such things that Bambulab make. I discard idea to things like Bambulab but now I know that they can have trademarks and patents that may lead to other things, so now I will only relay on public and open source.
 read about all voron printer their works and main thing there cost to build.
